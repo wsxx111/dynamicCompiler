@@ -1,0 +1,9 @@
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\bin\Debug\DongCompiler.exe.config
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\bin\Debug\DongCompiler.exe
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\bin\Debug\DongCompiler.pdb
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.csprojResolveAssemblyReference.cache
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.Form1.resources
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.Properties.Resources.resources
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.csproj.GenerateResource.Cache
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.exe
+C:\Users\wangkai3\Desktop\Dong\DongCompiler\obj\Debug\DongCompiler.pdb

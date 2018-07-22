@@ -1,0 +1,6 @@
+C:\Users\wangkai3\Desktop\Dong\Dong\bin\Debug\Dong.exe.config
+C:\Users\wangkai3\Desktop\Dong\Dong\bin\Debug\Dong.exe
+C:\Users\wangkai3\Desktop\Dong\Dong\bin\Debug\Dong.pdb
+C:\Users\wangkai3\Desktop\Dong\Dong\obj\Debug\Dong.csprojResolveAssemblyReference.cache
+C:\Users\wangkai3\Desktop\Dong\Dong\obj\Debug\Dong.exe
+C:\Users\wangkai3\Desktop\Dong\Dong\obj\Debug\Dong.pdb

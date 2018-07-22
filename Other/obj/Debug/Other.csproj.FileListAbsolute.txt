@@ -1,0 +1,6 @@
+C:\Users\wangkai3\Desktop\Dong\Other\bin\Debug\Other.exe.config
+C:\Users\wangkai3\Desktop\Dong\Other\bin\Debug\Other.exe
+C:\Users\wangkai3\Desktop\Dong\Other\bin\Debug\Other.pdb
+C:\Users\wangkai3\Desktop\Dong\Other\obj\Debug\Other.csprojResolveAssemblyReference.cache
+C:\Users\wangkai3\Desktop\Dong\Other\obj\Debug\Other.exe
+C:\Users\wangkai3\Desktop\Dong\Other\obj\Debug\Other.pdb
